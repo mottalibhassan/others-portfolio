@@ -87,3 +87,28 @@ header{
     font-size: 18px;
 
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.inf{
+    text-align: center;
+}
+.info-title{
+
+}
+.info-discription{
+
+}
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skill-container{}
+.skill{}
+.skill-title{}
+.skill-discription{}
