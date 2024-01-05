@@ -5,5 +5,16 @@ nav{
     display: flex;
 }
 .nav-title{
-    
+    font-size: 45px;
+    font-weight: 800;
+}
+.primary-text{
+    color: #FD6E0A;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-left: 50px;
 }
