@@ -148,3 +148,24 @@ main section{
     text-align: center;
     margin-top: 50px;
 }
+
+
+/* footer style start */
+
+footer{
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+    gap: 100px;
+}
+.footer-colum{
+    width: 50%;
+}
+
+.contact input , textarea {
+    margin-bottom: 25px;
+    display: block;
+    padding: 20px;
+    
+}
